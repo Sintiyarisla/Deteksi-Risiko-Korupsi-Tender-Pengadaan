@@ -5,6 +5,16 @@ import pickle
 from sklearn.preprocessing import LabelEncoder
 from io import BytesIO
 import matplotlib.pyplot as plt
+import gdown
+import os
+
+file_id = "1yAFMcFBAQo_Q--CUxrdSOHq15nuYVGen"
+output = "data_bersih2.csv"
+
+if not os.path.exists(output):
+    url = f"https://drive.google.com/uc?id={file_id}"
+    gdown.download(url, output, quiet=False)
+
 
 st.set_page_config(page_title="Prediksi Risiko Korupsi", page_icon="🧾", layout="wide")
 
