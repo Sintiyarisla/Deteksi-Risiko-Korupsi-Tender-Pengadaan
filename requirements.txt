@@ -1,6 +1,8 @@
 streamlit
-scikit-learn
 pandas
 numpy
+scikit-learn
 matplotlib
 gdown
+openpyxl
+xlsxwriter
