@@ -1,3 +1,5 @@
+# Prediksi Risiko Korupsi pada Tender Pengadaan Publik di Indonesia Menggunakan Metode Random Forest dan Support Vector Machine
+
 Proyek ini diharapkan dapat memberikan kontribusi nyata dalam mendukung upaya pencegahan korupsi di sektor pengadaan barang dan jasa pemerintah. Dengan memanfaatkan pendekatan machine learning untuk menganalisis data tender yang bersumber dari sistem pengadaan publik, sistem ini dapat secara otomatis mengidentifikasi pola-pola yang mencurigakan serta mendeteksi risiko korupsi sejak tahap awal. Implementasi model prediksi dibangun dan diharapkan dapat membantu pihak-pihak terkait, seperti lembaga pengawas, dan pengambil kebijakan, dalam melakukan evaluasi tender secara lebih cepat, objektif, dan berbasis data. Selain itu, sistem ini juga dapat meningkatkan kesadaran akan pentingnya kualitas dan transparansi data tender yang dipublikasikan oleh instansi pemerintah. Secara umum, proyek ini diharapkan mendorong terciptanya sistem pengadaan yang lebih bersih melalui pemanfaatan teknologi dalam proses pengawasannya.
 
 ## Tujuan Proyek
